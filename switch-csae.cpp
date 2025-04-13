@@ -2,7 +2,10 @@
 using namespace std;
 
 /* 1 is Monday,
-2 is Tuesday, ...,
+2 is Tuesday,
+.
+.
+.
 7 is Sunday*/
 
 int main(){
