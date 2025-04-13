@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+/*if age>=18, print "adult",
+ else, print "not adult".
+*/
+    
 int main(){
     int age;
     cout << "Enter your age: ";
